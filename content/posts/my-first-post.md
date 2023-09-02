@@ -14,7 +14,7 @@ fullWidthTheme = false
 css = "extra_styles"
 +++
 
-![cover](/static/img/album-cover.jpg)
+![cover](/album-review/static/img/album-cover.jpg)
 
 [Summary](#summary)
 
