@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Terminal</title>
+    <link>https://example.org/tags/</link>
+    <description>Recent content in Tags on Terminal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 31 Aug 2023 22:03:59 +0100</lastBuildDate><atom:link href="https://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>idk</title>
+      <link>https://example.org/tags/idk/</link>
+      <pubDate>Thu, 31 Aug 2023 22:03:59 +0100</pubDate>
+      
+      <guid>https://example.org/tags/idk/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>music</title>
+      <link>https://example.org/tags/music/</link>
+      <pubDate>Thu, 31 Aug 2023 22:03:59 +0100</pubDate>
+      
+      <guid>https://example.org/tags/music/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+  </channel>
+</rss>
