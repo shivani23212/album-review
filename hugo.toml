@@ -1,5 +1,6 @@
 baseURL = 'https://example.org/'
 title = 'My New Hugo Site!'
+canonifyURLs = true
 
 baseurl = "/"
 languageCode = "en-us"
